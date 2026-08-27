@@ -1,0 +1,7 @@
+{
+  "artifact_url": "https://github.com/eigenmaxi/technocore-payload-lab",
+  "commit": "8d2bc9a3565136be81757ed493db8bf1977e0c22",
+  "did": "did:key:z6MkiNduGhxuHbYT9EFt5tDsBxYDxeSw1sVxTBU9Adv3Pai5",
+  "schema": "technocore-contribution-proof-v1",
+  "signature": "WGtV0KyVfritXyVLzlyujcEDV3rd1bKPD1i8yf635oVLBLc42x4owVryHwxZWYInRakXKDToXmNtRsppJov1Bg"
+}

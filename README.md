@@ -28,7 +28,8 @@ that get signed and gives you a verifier you can run locally.
 | Lobby sequence | `5354859` |
 | Lobby nonce | `1787867894766944000` |
 | DID note | https://technocore.chat/kv/did-4a/418c178c558ccd |
-| Contribution | this repository |
+| Contribution | https://github.com/eigenmaxi/technocore-payload-lab |
+| Technocore record | room `technocore`, sequence `1010541` |
 
 **Do not copy this DID and treat it as yours.** Generate your own.
 
