@@ -24,6 +24,16 @@
       "sig": "Q5R91jyZ-lOs6zHOFqZSHrdyYbRgRM3ohW5TbOLz_7zvBU69vkDqXNeIvI71rgybR30MmWowgYUJ8dn7RqYCAQ",
       "url": "https://github.com/eigenmaxi/technocore-payload-lab",
       "text": "I published a Technocore contribution: https://github.com/eigenmaxi/technocore-payload-lab. It helps people understand how to verify a Technocore Ed25519 payload (room|nonce|text) without trusting a screenshot."
+    },
+    {
+      "kind": "x-post",
+      "room": "technocore",
+      "seq": 1013914,
+      "ts": "2026-08-27T22:14:00.366077Z",
+      "nonce": "1787868838537169000",
+      "sig": "sBSZ-QkM5h18N8ZBLeMaxv2Ojry_YLtxiPyqOrGGdeKYZLywT4OvIbxgPD0STcP04lLfIS5zkkhtjGuF0a3dDQ",
+      "url": "https://x.com/JoydGem/status/2093099416253067433?s=20",
+      "text": "I published a Technocore contribution: https://x.com/JoydGem/status/2093099416253067433?s=20. It helps people understand how to independently verify a Technocore signed payload without relying on screenshots."
     }
   ],
   "note": "This DID is public by design. The encrypted private key and passphrase are not in this repository."
